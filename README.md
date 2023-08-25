@@ -8,7 +8,7 @@ Em busca da acessibilidade da plataforma, a plataforma além de desktop, também
 
 
 # Design da plataforma
-Discover foi desenvolvido em Amarelo que transmite alegria, otimismo, conforto alegria e euforia.
+Discover foi desenvolvido em Amarelo que transmite alegria, otimismo, conforto, alegria e euforia.
 Combinada com o preto que transmite elegância, credibilidade e objetividade.
 
 **![MacBook Pro 16_ - 1](https://github.com/ichcamile/Discover/assets/84331711/d7298ae6-0571-4e1d-9679-d99c7617f8ec)**
