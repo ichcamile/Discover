@@ -12,5 +12,8 @@ Discover foi desenvolvido em Amarelo que transmite alegria, otimismo, conforto a
 Combinada com o preto que transmite elegância, credibilidade e objetividade.
 
 **![MacBook Pro 16_ - 1](https://github.com/ichcamile/Discover/assets/84331711/d7298ae6-0571-4e1d-9679-d99c7617f8ec)**
-Clique aqui para ver o restante do projeto no FIGMA:
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F1TBDVnFJmNDoZ9XUpva0oF%2FFIRST-PROJECT---DESKTOP-VERSION%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DyEmIeMOQxfAK9kvD-1" allowfullscreen></iframe>
+Clique aqui para ver o restante do projeto DESKTOP no FIGMA: https://www.figma.com/proto/1TBDVnFJmNDoZ9XUpva0oF/FIRST-PROJECT---DESKTOP-VERSION?type=design&node-id=21-58&t=s7wwj2qhQ4avYu7Y-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=21%3A58&mode=design
+
+![iPhone 14 Pro Max - 1](https://github.com/ichcamile/Discover/assets/84331711/08db72f9-a13f-4b58-a192-e9454bab3e70)
+![iPhone 14 Pro Max - 3](https://github.com/ichcamile/Discover/assets/84331711/769a0408-2677-4155-b4be-55c413bf916b)
+![iPhone 14 Pro Max - 2](https://github.com/ichcamile/Discover/assets/84331711/18bc4df0-10e5-4c56-b95c-daa6dbd73e8a)
