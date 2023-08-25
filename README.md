@@ -11,6 +11,8 @@ Em busca da acessibilidade da plataforma, a plataforma além de desktop, também
 Discover foi desenvolvido em amarelo que transmite alegria, otimismo, conforto, alegria e euforia.
 Combinada com o preto que transmite elegância, credibilidade e objetividade.
 
+# Alguns frames do projeto
+
 **![MacBook Pro 16_ - 1](https://github.com/ichcamile/Discover/assets/84331711/d7298ae6-0571-4e1d-9679-d99c7617f8ec)**
 Clique aqui para ver o restante do projeto **DESKTOP** no FIGMA: 
 https://www.figma.com/proto/1TBDVnFJmNDoZ9XUpva0oF/FIRST-PROJECT---DESKTOP-VERSION?type=design&node-id=21-58&t=s7wwj2qhQ4avYu7Y-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=21%3A58&mode=design
